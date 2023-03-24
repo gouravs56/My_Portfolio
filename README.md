@@ -1,7 +1,7 @@
 ## Portfolio Website 
 
 #### Description
-This is a single-page website that showcases my personal portfolio. The website was built using HTML, Tailwind CSS, and React JS.
+This is a responsive portfolio website built with HTML, Tailwind CSS, and React JS. The website showcases my skills, projects, and experience.
 
 #### Features
 - A responsive design with multiple animations
