@@ -18,7 +18,7 @@ This is a single-page website that showcases my personal portfolio. The website 
 
 #### Getting Started
 To get started with this project, you will need to have Node.js installed on your machine.
-To view this in your local machine
+#### To view this in your local machine
 clone this repo || Install dependencies || 'npm start' to start the development server
 
 
