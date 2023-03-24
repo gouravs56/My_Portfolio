@@ -6,7 +6,7 @@ This is a single-page website that showcases my personal portfolio. The website 
 #### Features
 - A responsive design with multiple animations
 - A header section with a logo and hire option
-- A banner section that introduces me with socials
+- A banner section that introduces me with social links
 - A projects section that displays my recent projects with links to view the full details
 - A skills section that highlights my technical skills
 - A functional contact form that allows users to send me a message using getform.io
