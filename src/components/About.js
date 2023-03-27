@@ -55,7 +55,7 @@ const About = () => {
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Current <br />
-                  Semister
+                  Semester
                 </div>
               </div>
 
